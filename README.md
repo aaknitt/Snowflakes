@@ -1,4 +1,4 @@
-# Snowflakes
+# ESP8266 Snowflakes
 **KiCAD files for RGB(W) snowflakes**
 
 KiCAD schematic and board layout files (along with associated Gerber files) for ESP8266-based RGB(W) snowflakes.  
