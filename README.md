@@ -1,7 +1,10 @@
 # ESP8266 Snowflakes
-**KiCAD files for RGB(W) snowflakes**
+**KiCAD and FreeCAD files for RGB(W) snowflakes**
 
-KiCAD schematic and board layout files (along with associated Gerber files) for ESP8266-based RGB(W) snowflakes.  
+KiCAD schematic and PCB layout files (along with associated Gerber files) for ESP8266-based RGB(W) snowflakes.  
+
+FreeCAD files for 3D printed diffuser (use clear filament).
+
 Each snowflake uses 25 SK6812 (for RGBW) or WS2812b pixels.
 Can be operated using the fantastic [ESPixelStick firmware](https://github.com/forkineye/ESPixelStick) in conjunction with a program such as XLights64.
 
