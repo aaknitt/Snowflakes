@@ -1,6 +1,9 @@
 # ESP8266 Snowflakes
 **KiCAD and FreeCAD files for RGB(W) snowflakes**
 
+![Snowflake](https://github.com/aaknitt/Snowflakes/blob/master/Pictures/IMG_20171217_175235a.jpg "Snowflake PCB")
+
+
 KiCAD schematic and PCB layout files (along with associated Gerber files) for ESP8266-based RGB(W) snowflakes.  
 
 FreeCAD files for 3D printed diffuser (use clear filament).
