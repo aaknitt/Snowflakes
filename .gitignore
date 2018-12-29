@@ -1,0 +1,4 @@
+#ignore .zip files
+*.zip
+#ignore old files
+SnowflakeAsBuilt*
